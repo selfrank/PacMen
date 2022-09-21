@@ -1,4 +1,4 @@
-# pacmen
+# PacMen - Sarah Ibarra-Scurr via MIT
 
 ## <img src="PacMan1.png">
 
