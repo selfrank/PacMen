@@ -1,6 +1,8 @@
 # PacMen - Sarah Ibarra-Scurr via MIT
 
-## <img src="PacMan1.png">
+## <a href="https://selfrank.github.io/PacMen/"> PacMen</a>
+
+<img src="PacMan1.png">
 
 Factory for making pacmen
 
